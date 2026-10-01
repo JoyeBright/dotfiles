@@ -5,3 +5,5 @@ This repository contains the dotfiles for my setup. The main idea is to organize
 **Applications that need to be installed in addition to the dotfiles are**
 - WezTerm (https://github.com/wezterm/wezterm)
 - Starship (https://github.com/starship/starship)
+- Neoim (https://neovim.io/)
+- Lazy: a plugin manager for Neovim (https://github.com/folke/lazy.nvim)
